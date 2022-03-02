@@ -8,7 +8,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /Marika|marika|marica|marika/i
+handler.customPrefix = /i/Marika|marika|marica|marika/i
 handler.command = new RegExp
 
 
