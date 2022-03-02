@@ -522,8 +522,8 @@ ${global.owner.map((v, i) => '*Contacto ' + (i + 1) + ':* wa.me/' + v).join('\n'
       await this.send(`${tag},${JSON.stringify(NodePayload)}`)
     }
     await this.sendMessage(from, '*[ ⚠ ️] ️NO LLAMAR AL BOT POR FAVOR, NO QUEREMOS BLOQUEARL@, EVITENOS LA PENA DE HACERLO [ ⚠ ️]*\n\n*❗SI ESTE INCIDENTE SE REPITE USTED SERA BLOQUEAD@❗*', MessageType.extendedText)
-  }
-}*/
+  }*/
+}
 
 global.dfail = (type, m, conn) => {
   let msg = {
