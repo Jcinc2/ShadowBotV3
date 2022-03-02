@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /Triplekill|Triple kill|Triple Kill/
+handler.customPrefix = /Triplekill|Triple kill|Triple Kill|triple kill/
 handler.command = new RegExp
 module.exports = handler
