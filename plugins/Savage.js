@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /SAVAGE|savage/
+handler.customPrefix = /SAVAGE|savage|Savage/
 handler.command = new RegExp
 module.exports = handler
