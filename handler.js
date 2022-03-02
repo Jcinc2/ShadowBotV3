@@ -521,7 +521,7 @@ ${global.owner.map((v, i) => '*Contacto ' + (i + 1) + ':* wa.me/' + v).join('\n'
       
       await this.send(`${tag},${JSON.stringify(NodePayload)}`)
     }
-    await this.sendMessage(from, '**', MessageType.extendedText)
+    /*await this.sendMessage(from, '**', MessageType.extendedText)*/
   }
 }
 
