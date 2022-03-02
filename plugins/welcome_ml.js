@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /welcomeml|welcome ml/
+handler.customPrefix = /welcomeml|welcome ml|Welcome ml/i
 handler.command = new RegExp
 module.exports = handler
