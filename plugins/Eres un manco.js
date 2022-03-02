@@ -8,7 +8,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /Eres manco|Eres un manco|Eresunmanco/i
+handler.customPrefix = /Eres manco|eres un manco|Eresunmanco/i
 handler.command = new RegExp
 
 
