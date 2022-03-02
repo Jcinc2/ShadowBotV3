@@ -8,7 +8,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /F|f/i
+handler.customPrefix = /F en el chat|f en el chat/i
 handler.command = new RegExp
 
 
