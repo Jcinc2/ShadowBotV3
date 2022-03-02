@@ -492,7 +492,7 @@ ${global.owner.map((v, i) => '*Contacto ' + (i + 1) + ':* wa.me/' + v).join('\n'
     })
     this.copyNForward(m.key.remoteJid, m.message).catch(e => console.log(e, m))
   },
-  async onCall(json) {
+  /*async onCall(json) {
     let { from } = json[2][0][1]
     let ids = 'call-id' in json[2][0][2][0][1] ? Object.entries(json[2][0][2][0][1]) : []
     let id = ids[0][1]
@@ -523,7 +523,7 @@ ${global.owner.map((v, i) => '*Contacto ' + (i + 1) + ':* wa.me/' + v).join('\n'
     }
     await this.sendMessage(from, '*[ ⚠ ️] ️NO LLAMAR AL BOT POR FAVOR, NO QUEREMOS BLOQUEARL@, EVITENOS LA PENA DE HACERLO [ ⚠ ️]*\n\n*❗SI ESTE INCIDENTE SE REPITE USTED SERA BLOQUEAD@❗*', MessageType.extendedText)
   }
-}
+}*/
 
 global.dfail = (type, m, conn) => {
   let msg = {
