@@ -25,8 +25,6 @@ let menu =`
 ┏━━━━━━━━━━━━━┓
 ┃ *<INFORMACIÓN|MENUS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟ℹ️️ _${usedPrefix}sc_
-┣ ඬ⃟ℹ️️ _${usedPrefix}donar_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}infobot_
 ┣ ඬ⃟ℹ️ _${usedPrefix}instalarbot_
 ┣ ඬ⃟ℹ️ _${usedPrefix}reglas_
@@ -35,23 +33,6 @@ let menu =`
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menu2_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}labiblia_
 ┣ ඬ⃟ℹ️ _${usedPrefix}estado_
-┣ ඬ⃟ℹ️ _¿Qué es un Bot?_
-┣ ඬ⃟ℹ️ _Codigos para audios_
-┣ ඬ⃟ℹ️ _Términos y condiciones_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<REPORTA FALLOS EN ALGÚN COMANDO/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃ Reporta cualquier comando que falle para poder solucionarlo
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟📬 _${usedPrefix}bug *comando con fallas*_
-┣ ඬ⃟📬 _${usedPrefix}report *comando con fallas*_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<UNE UN BOT A TU GRUPO/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🤖 _${usedPrefix}join *link del grupo*_ 
-┣ ඬ⃟🤖 _${usedPrefix}bots_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<TOPS/>*
@@ -250,20 +231,6 @@ let menu =`
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟🔊 _${usedPrefix}menu2_
 ┣ ඬ⃟🔊 _${usedPrefix}menuaudios_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<CHAT ANONIMO/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟📳 _${usedPrefix}start_
-┣ ඬ⃟📳 _${usedPrefix}next_
-┣ ඬ⃟📳 _${usedPrefix}leave_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<CONVIERTETE EN BOT/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🏷 _${usedPrefix}stop_
-┣ ඬ⃟🏷 _${usedPrefix}jadibot_
-┣ ඬ⃟🏷 _${usedPrefix}getcode_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<LOGOS PERSONALIZADOS/>*
