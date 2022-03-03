@@ -29,7 +29,7 @@ let menu =`
 ┣ ඬ⃟ℹ️️ _${usedPrefix}sc_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}donar_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}infobot_
-┣ ඬ⃟ℹ️️ _${usedPrefix}grupos_
+
 ┣ ඬ⃟ℹ️ _${usedPrefix}instalarbot_
 ┣ ඬ⃟ℹ️ _${usedPrefix}reglas_
 ┣ ඬ⃟ℹ️ _${usedPrefix}menusimple_
@@ -64,11 +64,7 @@ let menu =`
 ┣ ඬ⃟🎖️ _${usedPrefix}toppajer@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}topotakus_
 ┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<NUMERO DEL CREADOR/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟👻 _${usedPrefix}owner_
-┗━━━━━━━━━━━━━┛
+
 ┏━━━━━━━━━━━━━┓
 ┃ *<JUEGOS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
